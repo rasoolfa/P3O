@@ -46,7 +46,7 @@ export MXNET_ENFORCE_DETERMINISM=1
 export OMP_NUM_THREADS=1
 ```
 
-# Running the code
+# Usage
 
 ```
 python -u main.py --use_linear_lr_decay --use_ess_is_clipping --frames_waits 15000 --sample_mult 6 --num_steps 16 --num_env 16 --save_freq 500 --log_interval 40 --replay_ratio 2 --replay_size 50000 --log_id log_0 --ent_coef 0.01 --seed 0 --env=BreakoutNoFrameskip-v4 --alg_name p3o --use_gae 
@@ -56,9 +56,9 @@ python -u main.py --use_linear_lr_decay --use_ess_is_clipping --frames_waits 150
 
 For complete list of hyperparameters, please refer to the paper appendix. 
 
-# Reporting Issues and Contacting 
+# Contact
 
-Please create an issue to report a problem or to ask question in the repo's issues page or contact [Rasool](https://github.com/rasoolfa).
+Please open an issue on [issues tracker](https://github.com/rasoolfa/P3O/issues) to report a problem or to ask question or contact [Rasool Fakoor](https://github.com/rasoolfa).
 
 # Acknowledgement 
 - Special thanks to [Hang Zhang](https://github.com/zhanghang1989) and [Tong He](https://github.com/hetong007) for their helps and tireless efforts with MXNet implementation.
