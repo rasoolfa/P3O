@@ -58,7 +58,7 @@ For complete list of hyperparameters, please refer to the paper appendix.
 
 # Contact
 
-Please open an issue on [issues tracker](https://github.com/rasoolfa/P3O/issues) to report a problem or to ask question or contact [Rasool Fakoor](https://github.com/rasoolfa).
+Please open an issue on [issues tracker](https://github.com/rasoolfa/P3O/issues) to report problems or to ask questions or send an email to [Rasool Fakoor](https://github.com/rasoolfa).
 
 # Acknowledgement 
 - Special thanks to [Hang Zhang](https://github.com/zhanghang1989) and [Tong He](https://github.com/hetong007) for their helps and tireless efforts with MXNet implementation.
