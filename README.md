@@ -7,15 +7,16 @@ On-policy reinforcement learning (RL) algorithms have high sample complexity whi
 This repository provides the MXNet implementation of [P3O: Policy-on Policy-off Policy Optimization](https://arxiv.org/abs/1905.01756). If you use this code please cite the paper using the bibtex reference below.
 
 ```
-@article{fakoorp3o,
+@inproceedings{fakoorp3o,
   author    = {Rasool Fakoor and
                Pratik Chaudhari and
                Alexander J. Smola},
   title     = {{P3O:} Policy-on Policy-off Policy Optimization},
-  journal   = {CoRR},
-  volume    = {abs/1905.01756},
+  booktitle = {Proceedings of the Thirty-Fifth Conference on Uncertainty in Artificial
+               Intelligence, {UAI} 2019},
+  pages     = {371},
   year      = {2019},
-  url       = {http://arxiv.org/abs/1905.01756},
+  crossref  = {DBLP:conf/uai/2019},
 }
 
 ```
